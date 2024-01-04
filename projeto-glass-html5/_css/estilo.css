@@ -41,12 +41,8 @@ header#cabecalho img#icone {
     top: -120px;
 }
 
-header {
-    margin-top: 90px;
-    margin-bottom: 0px;
-}
-
 header#cabecalho {
+    margin-top: 90px;
     border-bottom: 1px #606060 solid;
     height: 150px;
     background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
@@ -123,6 +119,7 @@ margin: 2px;
 -o-transition: background-color 1s;
 -ms-transition: background-color 1s;
 transition: background-color 1s;
+border-radius: 10px;
 }
 
 nav#menu li:hover{

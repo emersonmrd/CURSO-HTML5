@@ -41,6 +41,10 @@ header#cabecalho img#icone {
     top: -50px;
 }
 
+header {
+    margin-top: 50px;
+}
+
 header#cabecalho {
     border-bottom: 1px #606060 solid;
     height: 150px;

@@ -42,7 +42,8 @@ header#cabecalho img#icone {
 }
 
 header {
-    margin-top: 50px;
+    margin-top: 90px;
+    margin-bottom: 0px;
 }
 
 header#cabecalho {
@@ -108,8 +109,8 @@ nav#menu ul {
     list-style: none;
     text-transform: uppercase;
     position: absolute;
-    top: -20px;
-    left: 300px;
+    top: 0px;
+    margin: 0px auto 0px auto;
 }
 
 nav#menu li {
